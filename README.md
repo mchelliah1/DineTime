@@ -1,9 +1,9 @@
-DineTime 🍽️
+**DineTime 🍽️**
 Swipe Your Way to the Perfect Meal!
 
 DineTime revolutionizes dining decisions by bringing the swipe functionality you love from dating apps to restaurant discovery. Whether you're exploring solo or with friends, DineTime ensures your dining experience is seamless, personalized, and fun.
 
-🌟 Key Features
+**🌟 Key Features**
 Swipe Through Restaurants
 
 Swipe left to skip or right to save, making dining decisions fast and fun.
@@ -32,10 +32,10 @@ Read snippets of reviews from popular platforms.
 
 Build a liked-list for more focused decision-making.
 
-📖 Project Overview
+**📖 Project Overview**
 DineTime is designed to simplify restaurant selection through a delightful user experience and smart functionality. By integrating personalization, collaboration, and accessibility, we aim to redefine how users discover dining options.
 
-Our target audience includes:
+**Our target audience includes:**
 
 Food enthusiasts seeking personalized dining experiences.
 
